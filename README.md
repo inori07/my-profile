@@ -64,7 +64,6 @@
 
 
 ### 💻 IDEs/Editors
-![Corsor](https://img.shields.io/badge/Corsor-007ACC?style=flat-square&logo=Corsor&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)
